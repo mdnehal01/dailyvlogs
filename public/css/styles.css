@@ -1,0 +1,34 @@
+body{
+    background-color: #F5EFE7;
+}
+
+h1{
+    font-family: 'Belanosima', sans-serif;
+    font-size: 4rem;
+}
+.navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+    background-color: #D8C4B6;
+}
+.navbar-nav  li a:hover {
+    color: #4F709C !important;
+}
+
+.footer {
+	text-align: center;
+	width: 100%;
+	height: 60px;
+	background-color: #4F709C;
+}
+
+.footer p {
+	margin-top: 25px;
+	font-size: 15px;
+    color:#F5EFE7;
+}
